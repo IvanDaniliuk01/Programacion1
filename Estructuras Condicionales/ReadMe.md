@@ -45,7 +45,7 @@ El script `tp3_condicionales.py` incluye soluciones para los siguientes problema
 
 ## Autor
 
-* Daniliuk Ivan *
+* Daniliuk Ivan
 
 ---
 *Este README fue generado como parte de la resolución del TP3.*
