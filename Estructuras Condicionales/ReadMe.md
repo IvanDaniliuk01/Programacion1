@@ -9,11 +9,11 @@ Este repositorio contiene la resolución del Trabajo Práctico N° 3, enfocado e
 
 ## Contenido del Repositorio
 
-* **`tp3_condicionales.py`**: Archivo de Python que contiene el código fuente con la solución a los 10 ejercicios propuestos en la guía del TP3. Cada ejercicio está separado y comentado para facilitar su comprensión.
+* **`TP 3 Condicionales - Daniliuk Ivan.py`**: Archivo de Python que contiene el código fuente con la solución a los 10 ejercicios propuestos en la guía del TP3. Cada ejercicio está separado y comentado para facilitar su comprensión.
 
 ## Ejercicios Resueltos
 
-El script `tp3_condicionales.py` incluye soluciones para los siguientes problemas:
+El script `TP 3 Condicionales - Daniliuk Ivan.py` incluye soluciones para los siguientes problemas:
 
 1.  Verificación de mayoría de edad.
 2.  Evaluación de aprobación según nota.
@@ -34,12 +34,12 @@ El script `tp3_condicionales.py` incluye soluciones para los siguientes problema
 
 ## Cómo Ejecutar el Código
 
-1.  Clona este repositorio o descarga el archivo `tp3_condicionales.py`.
+1.  Clona este repositorio o descarga el archivo `TP 3 Condicionales - Daniliuk Ivan.py`.
 2.  Abre una terminal o línea de comandos en el directorio donde se encuentra el archivo.
 3.  Ejecuta el script usando el intérprete de Python:
 
     ```bash
-    python tp3_condicionales.py
+    python "TP 3 Condicionales - Daniliuk Ivan.py"
     ```
 4.  El programa ejecutará cada ejercicio secuencialmente, solicitando las entradas necesarias por consola y mostrando los resultados.
 
